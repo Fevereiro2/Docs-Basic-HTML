@@ -1,0 +1,54 @@
+
+
+body{
+    background-color: white;
+}
+
+h1{
+    text-align: center;
+    border: solid 2px orange;
+    background-color: rgb(247, 203, 167);
+}
+
+p{
+    border-bottom: solid 1px black;
+    padding-bottom: 20px;
+}
+
+.diferente{
+    border-bottom: none;
+    padding: none;
+}
+
+.branco  {
+    text-align: left;
+    background-color: gray;
+    color: white;
+    font-size: 30px;
+    padding-bottom: 0px;
+    border-bottom: none;
+}
+.amarelo  {
+    text-align: left;
+    background-color: rgb(255, 0, 200);
+    color: rgb(252, 207, 6);
+    font-size: 30px;
+    padding-bottom: 0px;
+    border-bottom: none;
+}
+.preto  {
+    text-align: left;
+    background-color: rgb(255, 0, 0);
+    color: rgb(0, 0, 0);
+    font-size: 30px;
+    padding-bottom: 0px;
+    border-bottom: none;
+}
+.orange{
+    text-align: left;
+    background-color: rgb(60, 255, 0);
+    color: rgb(241, 76, 0);
+    font-size: 30px;
+    padding-bottom: 0px;
+    border-bottom: none;
+}
